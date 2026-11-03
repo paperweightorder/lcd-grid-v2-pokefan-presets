@@ -15,8 +15,6 @@ filter_linear2 = false
 scale_type2 = source
 scale2 = 1.0
 
-mgba_fix = 0.0
-adjust_gamma = 2.2
 RSUBPIX_R = 1.0
 RSUBPIX_G = 0.0
 RSUBPIX_B = 0.0
@@ -31,4 +29,3 @@ gamma = 2.2
 blacklevel = 0.0
 ambient = 0.0
 BGR = 0
-mode = 1.0

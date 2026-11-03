@@ -24,4 +24,3 @@ gamma = 2.2
 blacklevel = 0.0
 ambient = 0.0
 BGR = 0
-mode = 1.0

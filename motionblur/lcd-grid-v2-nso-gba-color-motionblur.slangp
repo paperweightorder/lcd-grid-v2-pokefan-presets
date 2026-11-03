@@ -21,8 +21,6 @@ scale_type3 = source
 scale3 = 1.0
 
 response_time = 0.111
-gamma_mode = 1.0
-adjust_gamma = 0.0
 RSUBPIX_R = 1.0
 RSUBPIX_G = 0.0
 RSUBPIX_B = 0.0
